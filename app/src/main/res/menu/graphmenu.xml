@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/temp"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Temperature"/>
+
+    <item
+        android:id="@+id/rpm"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="RPM"/>
+
+    <item
+        android:id="@+id/gap_x"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Gap_X"/>
+
+    <item
+        android:id="@+id/gap_y"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Gap_Y"/>
+
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="temperature"  android:id="@+id/temp" />
+    <item android:title="rpm" android:id="@+id/rpm" />
+    <item android:title="proximity" android:id="@+id/prox"/>
+    <item android:title="gap" android:id="@+id/gap" />
+</menu>
